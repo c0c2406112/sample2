@@ -1,5 +1,13 @@
 ---
 
+## Images
+
+![Minion](https://octodex.github.com/images/minion.png)
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)
+
+# 吉井陸です
+
 # h1 Heading
 
 ## h2 Heading
@@ -20,7 +28,7 @@ __This is bold text__
 
 *This is italic text*
 
-_This is italic text_
+_This is italic text*
 
 ~~Strikethrough~~
 
@@ -124,9 +132,3 @@ Duplicated footnote reference[^second].
     and multiple paragraphs.
 
 [^second]: Footnote text.
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)
