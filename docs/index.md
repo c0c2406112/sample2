@@ -30,7 +30,7 @@ _This is italic text_
 >>
 >> ...by using additional greater-than signs right next to each other...
 >
-> > ...or with spaces between arrows.
+> > > ...or with spaces between arrows.
 
 ## Lists
 
@@ -89,17 +89,17 @@ console.log(foo(5));
 
 | Option | Description |
 | ------- | ----------- |
-| data    | path to data files to supply the data that will be passed into templates. |
-| engine  | engine to be used for processing templates. Handlebars is the default. |
-| ext     | extension to be used for dest files. |
+| data | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext | extension to be used for dest files. |
 
 Right aligned columns
 
 | Option | Description |
-| ------: | :----------: |
-| data    | path to data files to supply the data that will be passed into templates. |
-| engine  | engine to be used for processing templates. Handlebars is the default. |
-| ext     | extension to be used for dest files. |
+| ------: | -----------: |
+| data | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext | extension to be used for dest files. |
 
 ## Links
 
@@ -109,7 +109,7 @@ Right aligned columns
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
-## Footnotes
+### Footnotes
 
 Footnote 1 link[^first].
 
@@ -124,3 +124,9 @@ Duplicated footnote reference[^second].
     and multiple paragraphs.
 
 [^second]: Footnote text.
+
+## Images
+
+![Minion](https://octodex.github.com/images/minion.png)
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)
